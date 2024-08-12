@@ -5,17 +5,17 @@
 __________________________________
 
 
-- [数组](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/SqList.go)
+- 数组: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/SqList.go)
 
 - **链表**
-    - [单链表](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/SingleLinkList.go)
-    - [双链表](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/DoubleLinkList.go)
+    - 单链表: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/SingleLinkList.go)
+    - 双链表: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/DoubleLinkList.go)
 
-- [栈](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/Stack.go)
+- 栈: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/Stack.go)
 
 - **队列**
-    - [顺序队列](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/Squeue.go)
-    - [链式队列](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/Lqueue.go)
+    - 顺序队列: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/Squeue.go)
+    - 链式队列: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/LinearList/Lqueue.go)
 
 __________________________________
 

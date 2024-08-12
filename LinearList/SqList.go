@@ -29,7 +29,7 @@ func (L *SqList2) InitList2(capacity int) {
 	L.length = 0
 }
 
-//顺序表的插入,以静态定义为例
+//顺序表的插入,静态定义为例
 func ListInsert(L *SqList1, index int, e int) bool {
 	//判断index值有效性
 	if index < 0 || index > L.length {
@@ -48,7 +48,7 @@ func ListInsert(L *SqList1, index int, e int) bool {
 	return true
 }
 
-//顺序表的删除,以静态定义为例
+//顺序表的删除,静态定义为例
 func ListDelete(L *SqList1, index int, e *int) bool {
 	//判断index值有效性
 	if index < 1 || index > L.length {
