@@ -20,5 +20,22 @@ __________________________________
 __________________________________
 
 
-### 树及以后
-还没学会 **:(**
+### 树
+__________________________________
+
+
+- **二叉树**
+    - 顺序实现: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/Tree/SbinaryTree.go)
+    - 链式实现: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/Tree/LbinaryTree.go)
+        - 层次遍历: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/Tree/bt_levelOrder.go)
+    - 线索二叉树: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/Tree/ThreadedBinaryTree.go)
+
+- 树与二叉树的转换: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/Tree/TreeToBinaryTree.go)
+
+- 并查集: --> [Code](https://github.com/BY2095163684/Data-Structure-by-Go/blob/main/Tree/UnionFind.go)
+
+__________________________________
+
+
+### 图及以后
+学不过来了 **(☍﹏⁰。)**
